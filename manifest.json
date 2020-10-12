@@ -1,0 +1,10 @@
+{
+    "name": "Questionario",
+    "short_name": "Questionario",
+    "description": "Questionario",
+    "lang": "it-IT",
+    "start_url": "index.html",
+    "background_color": "black",
+    "theme_color": "#F5DEF1",
+    "display": "standalone"
+}
